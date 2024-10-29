@@ -1,0 +1,22 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-Dima/test2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-Dima/test2/issues"
+  },
+  "homepage": "https://github.com/T-Dima/test2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.2"
+  }
+}
