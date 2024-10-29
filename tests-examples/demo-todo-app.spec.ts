@@ -16,6 +16,8 @@ test.describe('New Todo', () => {
     const newTodo = page.getByPlaceholder('What needs to be done?');
 
     // Create 1st todo.
+
+
     await newTodo.fill(TODO_ITEMS[0]);
     await newTodo.press('Enter');
 
